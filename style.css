@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 100px;
 }
 
 a {
@@ -35,8 +35,8 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #orange;
+    color: #orange;
 }
 
 .bg-2 {
